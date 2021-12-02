@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+👋 Hi, I’m Erik
+😄 Pronouns: He/Him
+👀 I’m interested in IaC, software development and DevOps
+🌱 I’m currently learning Go, Azure and GitOps
+👯 I’m looking to collaborate on terraform providers
+📫 How to reach me: [linkedIn](https://www.linkedin.com/in/eriksna/)
+💬 Check out my [blog](https://eriksnartland.no/)!
+⚡ Fun fact: I'm also a certified lifeguard!
