@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 - 👋 Hi, I’m Erik
-- 😄 Pronouns: He/Him
 - 👀 I’m interested in IaC, software development and DevOps
 - 🌱 I’m currently learning Go, Azure and GitOps
 - 👯 I’m looking to collaborate on terraform providers
