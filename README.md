@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 👋 Hi, I’m Erik
 - 👀 I’m interested in IaC, software development and DevOps
-- 🌱 I’m currently learning Go, Azure and GitOps
+- 🌱 I’m currently learning Go and Azure
 - 👯 I’m looking to collaborate on terraform providers
 - 📫 How to reach me: [linkedIn](https://www.linkedin.com/in/eriksna/)
 - 💬 Check out my [blog](https://eriksnartland.no/)!
